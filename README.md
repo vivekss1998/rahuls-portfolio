@@ -1,11 +1,4 @@
-# <p align="center">Personal Portfolio</p>
-![image](https://user-images.githubusercontent.com/93595710/218269495-00433bd1-e725-4bf5-94fd-2510d4539215.png)
-
-## Deploy link🤹‍♂️: [https://sudhanva-nadiger.netlify.app/](https://sudhanva-nadiger.netlify.app/)
-
-## Tech Stacks 🔨:
-
-- Frameworks:
+frameworks:
   - [ReactJs](https://reactjs.org/)
   - [TailwindCSS](https://tailwindcss.com/)
   
